@@ -1,0 +1,5 @@
+com/mycompany/packagepricingsystem/Package.class
+com/mycompany/packagepricingsystem/StorageService.class
+com/mycompany/packagepricingsystem/resources/JakartaEE8Resource.class
+com/mycompany/packagepricingsystem/JakartaRestConfiguration.class
+com/mycompany/packagepricingsystem/Test.class
